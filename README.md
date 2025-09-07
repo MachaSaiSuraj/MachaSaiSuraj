@@ -53,11 +53,6 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MachaSaiSuraj/MachaSaiSuraj/output/snake.svg" alt="Snake animation" />
 
 ###
 
