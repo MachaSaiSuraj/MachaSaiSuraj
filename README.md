@@ -1,4 +1,7 @@
-<h1 align="left">Hi 👋! My name is Sai Suraj and I'm a Data Scientist from India ✌️</h1>
+<h1 align="left">Hi 👋! My name is Sai Suraj </h1>
+
+<h3 align="left">Hi 👋! My name is Sai Suraj </h3>
+
 
 ###
 
@@ -8,12 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MachaSaiSuraj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
 
 ###
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">💻Tech Stack:</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -43,6 +43,7 @@
 </div>
 
 ###
+<h2 align="left">🌐Socials:</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sai-suraj-418005214/" target="_blank">
