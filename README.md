@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋! My name is Sai Suraj </h1>
 
-<h3 align="left">Hi 👋! My name is Sai Suraj </h3>
+<h3 align="left">🧑🏻‍💻Aspiring Data Scientist with hands-on-project experience in Python, SQL, Pandas, Power BI, Machine Learning, Data Analytics & Data Visualization 📈. Check out my works in my repositories </h3>
 
 
 ###
